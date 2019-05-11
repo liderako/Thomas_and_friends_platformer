@@ -17,3 +17,11 @@ so decides to look after Thomas and Chris.
 
 **Claire** - Claire lacks confidence, she moves slowly and considers herself rubbish
 at jumping. But then she discovers that she might be a superhero.
+
+
+### Control Hero
+- Arrows - move
+- Space - jump
+
+### Switch Hero
+- Button 1,2,3
